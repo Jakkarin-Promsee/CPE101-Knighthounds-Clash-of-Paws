@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{4444AE95-C9EA-99D6-3A01-5985D98ED56B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TankPlayer.cs">
+    <Files>
+      <File FileName="Assets/TankPlayer.cs" Line="19" Column="2" />
+      <File FileName="Assets/_Tank Package/TankSystem.cs" Line="358" Column="93" />
+      <File FileName="Assets/_Tank Package/PlayerController.cs" Line="54" Column="44" />
+      <File FileName="Assets/Extra Scripts/ItemAnimation.cs" Line="26" Column="62" />
+      <File FileName="Assets/_Tank Package/_Completed-Assets/Scripts/Shell/ShellExplosion.cs" Line="42" Column="56" />
+      <File FileName="Assets/ItemSpawner.cs" Line="13" Column="31" />
+      <File FileName="Assets/_Tank Package/_Completed-Assets/Scripts/Managers/GameManager.cs" Line="90" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4de8bd63-1398-4805-8952-c9cb6b3d6b91" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
