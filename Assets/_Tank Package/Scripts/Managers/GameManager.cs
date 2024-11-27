@@ -47,10 +47,12 @@ namespace Complete
         {
             if (pauseMenu.activeInHierarchy)
             {
+                gameObject.GetComponent<AudioSource>().Stop();
                 DisableTankControl();
 
                 if (Input.GetKeyDown(KeyCode.Escape))
                 {
+                    gameObject.GetComponent<AudioSource>().Play();
                     EnableTankControl();
                     pauseMenu.SetActive(false);
                 }
